@@ -1,0 +1,15 @@
+C:\Users\ANGEL\source\repos\EXLuisMontes\EXLuisMontes\EXLuisMontes\bin\Debug\netstandard2.0\EXLuisMontes.deps.json
+C:\Users\ANGEL\source\repos\EXLuisMontes\EXLuisMontes\EXLuisMontes\bin\Debug\netstandard2.0\EXLuisMontes.dll
+C:\Users\ANGEL\source\repos\EXLuisMontes\EXLuisMontes\EXLuisMontes\bin\Debug\netstandard2.0\ref\EXLuisMontes.dll
+C:\Users\ANGEL\source\repos\EXLuisMontes\EXLuisMontes\EXLuisMontes\bin\Debug\netstandard2.0\EXLuisMontes.pdb
+C:\Users\ANGEL\source\repos\EXLuisMontes\EXLuisMontes\EXLuisMontes\obj\Debug\netstandard2.0\EXLuisMontes.csproj.AssemblyReference.cache
+C:\Users\ANGEL\source\repos\EXLuisMontes\EXLuisMontes\EXLuisMontes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ANGEL\source\repos\EXLuisMontes\EXLuisMontes\EXLuisMontes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ANGEL\source\repos\EXLuisMontes\EXLuisMontes\EXLuisMontes\obj\Debug\netstandard2.0\EXLuisMontes.AssemblyInfoInputs.cache
+C:\Users\ANGEL\source\repos\EXLuisMontes\EXLuisMontes\EXLuisMontes\obj\Debug\netstandard2.0\EXLuisMontes.AssemblyInfo.cs
+C:\Users\ANGEL\source\repos\EXLuisMontes\EXLuisMontes\EXLuisMontes\obj\Debug\netstandard2.0\EXLuisMontes.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\source\repos\EXLuisMontes\EXLuisMontes\EXLuisMontes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ANGEL\source\repos\EXLuisMontes\EXLuisMontes\EXLuisMontes\obj\Debug\netstandard2.0\EXLuisMontes.dll
+C:\Users\ANGEL\source\repos\EXLuisMontes\EXLuisMontes\EXLuisMontes\obj\Debug\netstandard2.0\ref\EXLuisMontes.dll
+C:\Users\ANGEL\source\repos\EXLuisMontes\EXLuisMontes\EXLuisMontes\obj\Debug\netstandard2.0\EXLuisMontes.pdb
+C:\Users\ANGEL\source\repos\EXLuisMontes\EXLuisMontes\EXLuisMontes\obj\Debug\netstandard2.0\UbicacionesGuardadas.xaml.g.cs
